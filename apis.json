@@ -1,0 +1,83 @@
+{
+    "name": "Lightstreamer",
+    "description": "<p>Lightstreamer is a top-performing real-time messaging server optimized for the Internet. Blending WebSockets, HTTP, and push notifications, it streams data to\/from mobile, tablet, browser-based, desktop, and IoT applications.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28721-lightstreamer-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lightstreamer\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lightstreamer",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28721-lightstreamer-com.jpg",
+            "humanURL": "http:\/\/www.lightstreamer.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lightstreamer-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Hacker News Search",
+            "url": "LightStreamer"
+        },
+        {
+            "type": "Stack Exchange Search",
+            "url": "LightStreamer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.lightstreamer.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.lightstreamer.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.lightstreamer.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/lightstreamer"
+        },
+        {
+            "type": "Email",
+            "url": "info@lightstreamer.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@lightstreamer.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@lightstreamer.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Lightstreamer"
+        },
+        {
+            "type": "Reddit Search",
+            "url": "LightStreamer"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Lightstreamer"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lightstreamer.com"
+        }
+    ]
+}
